@@ -7,7 +7,7 @@ Most of the look of form elements is controlled in CSS at the core level.
 <p><label for="First_Name">First Name:</label><br />
 <input type="text" name="First_Name" /></p>
 <p><label for="Last_Name">Laste Name:</label><br />
-<input type="text" name="Laste_Name" /></p>
+<input type="text" name="Last_Name" /></p>
 <p><label for="Email">Email Address:</label><br />
 <input type="text" name="Email" /></p>
 <p><label for="Phone">Phone Number:</label><br />
